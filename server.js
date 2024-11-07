@@ -6,7 +6,7 @@ const path = require('node:path');
 
 // константы
 const port = 80;
-const host = 'localhost';
+const host = 'https://amir248.github.io/node';
 
 // приложение
 const app = express();
