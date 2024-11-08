@@ -5,7 +5,7 @@ const path = require('node:path');
 // const script=require('./views/style.css');
 
 // константы
-const port = 70;
+const port = " ";
 const host = "localhost";
 
 // приложение
