@@ -1,5 +1,4 @@
 'use strict';
-
 const express = require('express');
 const path = require('node:path');
 // const script=require('./views/style.css');
